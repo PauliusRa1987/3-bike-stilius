@@ -1,0 +1,4 @@
+/node_modules
+.DC_Store
+/.vscode
+package-lock.json

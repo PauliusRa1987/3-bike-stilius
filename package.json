@@ -1,0 +1,16 @@
+{
+  "name": "3-bike-stilius",
+  "version": "1.0.0",
+  "description": "Stilius-dviratis",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["js", "stilius"],
+  "author": "Paulius Ra",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
